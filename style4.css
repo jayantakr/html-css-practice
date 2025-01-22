@@ -1,0 +1,16 @@
+article p:first-of-type {
+    font-size: 140%;
+    font-style: italic;
+}
+article :last-child {
+    font-weight: bold;
+}
+ul li:nth-child(odd) {
+    color: blue;
+}
+a:visited {
+    color: dodgerblue;
+}
+a:hover, a:focus {
+    color: deeppink;
+}

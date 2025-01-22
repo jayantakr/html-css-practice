@@ -1,0 +1,6 @@
+.product {
+    color: yellow;
+}
+a[href*="google"] {
+    color: yellow;
+}
